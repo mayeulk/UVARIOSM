@@ -8,3 +8,7 @@ Curent partners who expressed interest:
 - JRC GHSL team: http://ghsl.jrc.ec.europa.eu/
 - CartONG: http://cartong.org/
 - OpenStreetMap contributors
+
+
+Screenshot of current prototype in action:
+![Screenshot of prototype web page to validate automated data extraction from satellite imagery](./validate_OSM.jpg)
